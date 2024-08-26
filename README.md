@@ -11,3 +11,5 @@ This project demonstrates the use of LINQ GroupJoin in C# to group students by t
 - Clone the repository.
 - Open the solution in Visual Studio.
 - Run the program to see the output of grouped students by their classes.
+
+![image](https://github.com/user-attachments/assets/8b765a5e-5554-4382-b705-e36fbc9c4515)
